@@ -2199,7 +2199,7 @@ input, select, textarea {
 		}
 
 			.image.avatar img {
-				border-radius: 100%; 
+				border-radius: 100%;
 				display: block;
 				width: 100%;
 			}
@@ -2809,7 +2809,8 @@ input, select, textarea {
 						border: 0;
 						color: #ffffff !important;
 						display: block;
-						padding: 0.85em 0;
+						/* padding: 0.85em 0; */
+						padding: 0.3em 0;
 						text-decoration: none;
 					}
 
